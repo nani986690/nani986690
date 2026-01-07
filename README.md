@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-header-banner.png" alt="Header Image">
+  <img src="./assets/github-header-banner-vinod.png" alt="Header Image">
 </p>
 
 ## About Me
@@ -37,6 +37,6 @@ Open to frontend internship opportunities.
 ## Connect with Me
 
 <p align="center">
-  <a href="#" target="_blank">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/vinod-kumar-chedipothula-4b0b532ab" target="_blank">LinkedIn</a> ·
   <a href="mailto:vinod93810@gmail.com">Email</a>
 </p>
